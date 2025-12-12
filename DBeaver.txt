@@ -1,0 +1,17 @@
+DBeaver PRO features:
+Advanced security: master password and strong credentials encryption to secure and easy database connection.
+Enterprise-level authentication methods: SAML, SSO, OKTA, and Kerberos. SSO authentication cloud services such as GCP, AWS, and Azure.
+Advanced SQL databases support: MySQL, PostgreSQL, SQL Server, Oracle and others
+NoSQL databases support: MongoDB, Cassandra, Redis, CouchDB and others
+Cloud databases support: Redshift, Google BigQuery, Oracle Cloud and others
+Native cloud support for Google Cloud, AWS, and Azure.
+Access all files in any region with the S3 browser to upload, store, share, and save files like in a regular file system.
+AI assistant in SQL and Visual Query Builder to create complex SQL scripts automatically
+Database schema development with ERD Edit Mode.
+Mock data generation with thousands of entities of different types for database testing.
+Comparison of data and schemas between sources to navigate through all the differences.
+Query Execution plan graph mode to view and estimate the speed of the query or script execution and to define the most expensive plan nodes.
+Complex multi-component tasks support automating daily database operations.
+Task scheduler to run tasks automatically.
+Data export tasks to send regular reports to the email.
+Ongoing technical support at all stages of working with DBeaver PRO – from product consulting to deploying the solution in your company’s infrastructure.
